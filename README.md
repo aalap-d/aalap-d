@@ -14,4 +14,4 @@
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=aalap-d&theme=dark)
 
 ---
-Generated with **Profile ReadMe Maker**
+
