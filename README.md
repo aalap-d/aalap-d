@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <h1>Algorithmic Problem Solver</h1>
 <h3>Bridging the gap between theory and practice | Java, JavaScript, C & Python Developer  </h3>
 <p>Aspiring Software Engineer with a strong foundation in Java and algorithmic problem-solving. Currently building practical applications in C++ and sharpening my data structure skills. Always eager to tackle complex challenges and optimize code.</p>
