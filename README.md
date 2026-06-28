@@ -10,6 +10,7 @@
 # Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000) ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffffff) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=ffffff) ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=ffffff) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff) ![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=000000)
 
+# GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aalap-d&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalap-d&layout=default&theme=dark)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=aalap-d&theme=dark)
