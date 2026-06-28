@@ -15,5 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalap-d&layout=default&theme=dark)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=aalap-d&theme=dark)
 
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aaryush-exe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
