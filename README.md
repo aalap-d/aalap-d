@@ -11,7 +11,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aalap-d&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalap-d&layout=default&theme=dark)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=aalap-d&theme=dark)
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=aalap-d&theme=dark)
 
 ---
 Generated with **Profile ReadMe Maker**
