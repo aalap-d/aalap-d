@@ -12,8 +12,8 @@
 
 # GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aalap-d&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalap-d&layout=default&theme=dark)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=aalap-d&theme=dark)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Garvittt-API&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aaryush-exe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
